@@ -3,7 +3,7 @@
 
 ## Project 1
 
-[LiNk](https://github.com/mikuo0628/bccdc_gh_sl1/blob/main/proj1.R)
+[LiNk](https://github.com/mikuo0628/bccdc_gh_sl1_p1)
 
 ## Project 2
 
